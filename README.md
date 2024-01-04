@@ -3,6 +3,8 @@
 
 electron boilerplate forked from [this](https://github.com/electron-react-boilerplate/electron-react-boilerplate) repository, its awesome! (readme of that repository is attached below)
 
+changes: opens a full vnc and connects as display on gitpod (image)
+
 
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
