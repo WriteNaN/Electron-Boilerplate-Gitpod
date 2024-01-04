@@ -1,7 +1,7 @@
 # Work With Electron On Gitpod <3
 ![image](https://github.com/WriteNaN/Electron-Boilerplate-Gitpod/assets/151211283/f12ac72a-318a-4004-a5c1-5197b6dcb0c7)
 
-forked from [this](https://github.com/electron-react-boilerplate/electron-react-boilerplate) repository, its awesome! (readme of that repository is attached below)
+electron boilerplate forked from [this](https://github.com/electron-react-boilerplate/electron-react-boilerplate) repository, its awesome! (readme of that repository is attached below)
 
 
 <img src=".erb/img/erb-banner.svg" width="100%" />
